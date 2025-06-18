@@ -18,4 +18,4 @@ Create a csv or parquet file that has the data in the correct format.
 Use [pandas](https://pandas.pydata.org/docs/) or [duckdb](https://duckdb.org/docs/stable/clients/python/overview.html) to make the transformation.
 
 
-__This repository can also be found via [tinyurl.com/datalabassignment](https://tinyurl.com/datalabassignment).__
+_This repository can also be found via [tinyurl.com/datalabassignment](https://tinyurl.com/datalabassignment)._
